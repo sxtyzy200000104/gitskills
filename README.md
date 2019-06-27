@@ -1,3 +1,0 @@
-# gitskills
-
-VERY GOOD
