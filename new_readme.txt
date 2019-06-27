@@ -1,2 +1,2 @@
 create a new file
-create a branch is quick
+create a branch is quick &simple
